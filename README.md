@@ -65,10 +65,8 @@ Check out my professional portfolio and some of my company’s offerings:
 
 I’m always excited to network with fellow developers, collaborate on projects, or simply chat about tech. Let’s connect!
 
-- **LinkedIn**: [Himanshu Kumar Jha](https://www.linkedin.com/in/Himanshu14k/)
 - **Personal Website**: [Himanshu's Portfolio](https://himanshu-portfolio-i8ek.onrender.com/)
 - **NPM**: [Himanshu's Libraries](https://www.npmjs.com/~himanshu14k)
-- **Email**: himanshukumarjha14s@protonmail.com
 
 ## Let's Build Something Great Together! 🚀
 
